@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\CapstoneCLI\\CapstoneCLI.csproj": {}
+  },
+  "projects": {
+    "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\CapstoneCLI\\CapstoneCLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\CapstoneCLI\\CapstoneCLI.csproj",
+        "projectName": "CapstoneCLI",
+        "projectPath": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\CapstoneCLI\\CapstoneCLI.csproj",
+        "packagesPath": "C:\\Users\\BestOwner\\.nuget\\packages\\",
+        "outputPath": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\CapstoneCLI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BestOwner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\Capstone\\Capstone.csproj": {
+                "projectPath": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\Capstone\\Capstone.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\Capstone\\Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\Capstone\\Capstone.csproj",
+        "projectName": "Capstone",
+        "projectPath": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\Capstone\\Capstone.csproj",
+        "packagesPath": "C:\\Users\\BestOwner\\.nuget\\packages\\",
+        "outputPath": "F:\\Workspace\\week-6-pair-exercises-c-team-3\\09_Capstone\\dotnet\\Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BestOwner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "microsoft.extensions.configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.fileextensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

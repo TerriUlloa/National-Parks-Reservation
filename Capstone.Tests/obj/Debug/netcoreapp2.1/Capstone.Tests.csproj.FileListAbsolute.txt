@@ -1,0 +1,17 @@
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.csprojAssemblyReference.cache
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.csproj.CoreCompileInputs.cache
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.AssemblyInfoInputs.cache
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.AssemblyInfo.cs
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.Tests.deps.json
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.Tests.runtimeconfig.json
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.Tests.runtimeconfig.dev.json
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.Tests.dll
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.Tests.pdb
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.csproj.CopyComplete
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.dll
+C:\workspace\Team\week-6-pair-exercises-c-team-3\09_Capstone\dotnet\Capstone.Tests\obj\Debug\netcoreapp2.1\Capstone.Tests.pdb
